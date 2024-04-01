@@ -48,9 +48,4 @@ Copyright (C) 2019 Yogesh H Kulkarni
 ## Dependencies:
 * Needs Python 3.6, numpy, scipy, sklearn
 
-## References
-* Bhavani Ravi’s event-bot [code](https://github.com/bhavaniravi/rasa-site-bot), Youtube [Video](https://www.youtube.com/watch?v=ojuq0vBIA-g)
-* Banking FAQ Bot [code](https://github.com/MrJay10/banking-faq-bot)
 
-## Disclaimer:
-* Author (yogeshkulkarni@yahoo.com) gives no guarantee of the results of the program. It is just a fun script. Lot of improvements are still to be made. So, don’t depend on it at all.
